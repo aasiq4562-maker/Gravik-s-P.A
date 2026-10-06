@@ -1,0 +1,122 @@
+sources:
+- id: iitm_icsr_careers
+  name: IIT Madras IC&SR project openings
+  kind: page
+  url: https://icsrstaff.iitm.ac.in/careers/current_openings.php
+  trust: 1.0
+  categories:
+  - research
+  - internship
+  organization: IIT Madras
+- id: iitm_student_internships
+  name: IIT Madras internship office
+  kind: page
+  url: https://internship.iitm.ac.in/students
+  trust: 1.0
+  categories:
+  - internship
+  - technical_program
+  organization: IIT Madras
+- id: iitm_ambe_internships
+  name: IIT Madras AMBE internship opportunities
+  kind: page
+  url: https://apm.iitm.ac.in/opportunities/internships/
+  trust: 1.0
+  categories:
+  - research
+  - internship
+  organization: IIT Madras
+- id: iisc_summer_fellowships
+  name: IISc Summer Research Fellowship
+  kind: page
+  url: https://ipc.iisc.ac.in/summer_fellowships.php
+  trust: 1.0
+  categories:
+  - research
+  - internship
+  organization: Indian Institute of Science (IISc)
+- id: iisc_internships
+  name: IISc internship information
+  kind: page
+  url: https://occap.iisc.ac.in/index.php/internships/
+  trust: 1.0
+  categories:
+  - internship
+  organization: Indian Institute of Science (IISc)
+- id: iiche
+  name: IIChE
+  kind: page
+  url: https://www.iiche.org.in/
+  trust: 1.0
+  categories:
+  - research
+  - internship
+  - hackathon
+  - technical_program
+  - course
+  - conference
+  organization: Indian Institute of Chemical Engineers (IIChE)
+- id: unstop_search
+  name: Unstop public search discovery
+  kind: search
+  url: https://unstop.com/
+  trust: 0.7
+  categories:
+  - hackathon
+  - competition
+  - internship
+  - course
+  queries:
+  - site:unstop.com chemical engineering internship India
+  - site:unstop.com engineering fellowship India
+  - site:unstop.com chemical engineering hackathon India
+  - site:unstop.com engineering competition India
+  - site:unstop.com technical workshop India
+  - site:unstop.com student conference India
+- id: internshala_search
+  name: Internshala public search discovery
+  kind: search
+  url: https://internshala.com/
+  trust: 0.7
+  categories:
+  - internship
+  - course
+  queries:
+  - site:internshala.com internship chemical engineering India
+  - site:internshala.com research internship engineering India
+  - site:internshala.com chemical engineering internship India
+- id: naukri_search
+  name: Naukri public search discovery
+  kind: search
+  url: https://www.naukri.com/
+  trust: 0.7
+  categories:
+  - internship
+  queries:
+  - site:naukri.com chemical engineering internship India
+  - site:naukri.com process engineering internship India
+  - site:naukri.com chemical process internship India
+- id: public_opportunity_search
+  name: Public professor lab company opportunity discovery
+  kind: search
+  url: https://www.google.com/
+  trust: 0.6
+  categories:
+  - research
+  - internship
+  - fellowship
+  - industrial_visit
+  - workshop
+  - conference
+  - paper_poster
+  queries:
+  - '"professor" "chemical engineering" internship India 2026'
+  - '"lab" "chemical engineering" internship India 2026'
+  - '"research internship" "chemical engineering" IIT IISc CSIR 2026'
+  - '"R&D" "chemical engineering" internship India 2026'
+  - '"plant visit" engineering students Tamil Nadu 2026'
+  - '"call for papers" chemical engineering students India 2026'
+  - '"poster presentation" chemical engineering students India 2026'
+  - '"fellowship" engineering undergraduate India 2026'
+  - '"workshop" chemical engineering students India 2026'
+  - '"conference" chemical engineering students India 2026'
